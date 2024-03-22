@@ -3,4 +3,10 @@ chao
 =======
 hola
 >>>>>>> prueba
+<<<<<<< HEAD
 hello
+=======
+
+Hola
+Chao
+>>>>>>> prueba2
